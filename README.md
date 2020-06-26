@@ -1,1 +1,1 @@
-# mailchimpapi-newslettersignup
+# mailchimp --api --newsletter --signup
