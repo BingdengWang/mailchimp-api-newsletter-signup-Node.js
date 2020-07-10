@@ -1,4 +1,4 @@
-# mailchimp --api --newsletter --signup
+# mailchimp-api-newsletter-signup-Node.js
 
 https://mailchimpapi-newslettersignup.herokuapp.com/
 
